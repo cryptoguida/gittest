@@ -1,8 +1,9 @@
+html
 h1{
-    font-size: 72px;
+    font-size: 10px;
     color: blue;
 }
 p{
-    font-size: 18px;
+    font-size: 4.8rem;
     color: green;
 }
